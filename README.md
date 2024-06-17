@@ -9,3 +9,14 @@
 
 Uma imagem contém tudo que é necessário para a Aplicação Funcionar, ou seja se voce tem na sua máquina uma imagem com a aplicação rodando, você consegue transferir para outro servidor, sem ter que fazer todas as configurações novamente.
 
+# Conteiners
+
+O conteiner é um ambiente isolado, como uma VM.
+
+Caracteriristicas dos Conteiners:
+
+<p>1 - Isolado</p>
+<p>2 - Start/Stop (Isso pode ser feito pelo Docker Desktop)</p>
+
+
+
