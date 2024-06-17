@@ -22,3 +22,5 @@ Caracteriristicas dos Conteiners:
 <img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/01_Start_Stop_Conteiners.png">
 
 Basicamente o conteiner carrega a imagem e executa a aplicação
+
+### Utilizando o APP do Docker.
