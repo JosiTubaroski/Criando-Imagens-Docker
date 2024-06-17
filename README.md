@@ -2,7 +2,7 @@
 
 - A imagem, contem:
 
-  1 - Sistema Operacional
+  <p>1 - Sistema Operacional</p>
   2 - Bibliotecas
   3 - Arquivos APP (todos que a aplicação precisa para funcionar)
   4 - Variáveis de Ambiente
