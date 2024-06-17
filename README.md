@@ -18,5 +18,5 @@ Caracteriristicas dos Conteiners:
 <p>1 - Isolado</p>
 <p>2 - Start/Stop (Isso pode ser feito pelo Docker Desktop)</p>
 
-<img src="https://github.com/JosiTubaroski/Docker/blob/main/img/04_Hub_Docker.png">
+<img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/01_Start_Stop_Conteiners.png">
 
