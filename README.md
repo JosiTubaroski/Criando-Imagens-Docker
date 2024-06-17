@@ -17,6 +17,8 @@ Caracteriristicas dos Conteiners:
 
 <p>1 - Isolado</p>
 <p>2 - Start/Stop (Isso pode ser feito pelo Docker Desktop)</p>
+<p>3 - Considerado um processo que roda dentro de uma máquina
 
 <img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/01_Start_Stop_Conteiners.png">
 
+Basicamente o conteiner carrega a imagem e executa a aplicação
