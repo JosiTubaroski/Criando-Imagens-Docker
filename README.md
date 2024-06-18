@@ -24,3 +24,8 @@ Caracteriristicas dos Conteiners:
 Basicamente o conteiner carrega a imagem e executa a aplicação
 
 ### Utilizando o APP do Docker.
+
+<p> 1 - Fazer download app.zip / descompactar e salvar em C:
+
+<img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/02_Baixar_app.png">
+
