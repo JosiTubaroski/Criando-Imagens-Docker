@@ -33,6 +33,8 @@ Basicamente o conteiner carrega a imagem e executa a aplicação
 
 <img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/05_Open_Folder.png">
 
+<p> 3 - Abrir a pasta APP </p>
+
 <img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/04_Selecionar_App.png">
 
 
