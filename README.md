@@ -25,7 +25,15 @@ Basicamente o conteiner carrega a imagem e executa a aplicação
 
 ### Utilizando o APP do Docker.
 
-<p> 1 - Fazer download app.zip / descompactar e salvar em C:
+<p> 1 - Fazer download app.zip / descompactar e salvar em C:</p>
 
 <img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/02_Baixar_app.png">
+
+<p> 2 - Para verificar e configurar o ambiente, vamos utilizar o VSCode </p>
+
+<img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/03_Selecionar_APP.png">
+
+<img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/04_Selecionar_App.png">
+
+
 
