@@ -37,5 +37,10 @@ Basicamente o conteiner carrega a imagem e executa a aplicação
 
 <img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/04_Selecionar_App.png">
 
+### Instruções docker file
+
+<img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/06_Instrucoes_Docker_File.png">
+
+
 
 
