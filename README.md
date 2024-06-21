@@ -41,6 +41,9 @@ Basicamente o conteiner carrega a imagem e executa a aplicação
 
 <img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/06_Instrucoes_Docker_File.png">
 
+### Para a aplicação vamos precisar de uma imagem docker que tenha Node
+
+<img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/07_Utilizando_Node_Alpine.png">
 
 
 
