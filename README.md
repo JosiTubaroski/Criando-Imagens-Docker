@@ -71,6 +71,10 @@ Portanto, quando você executa <b>'docker build -t app.'</b> no diretório <b>'C
 É importante ressaltar que o comando <b>'docker build'</b> executa uma série de instruções definidas no Dockerfile para configurar o ambiente e instalar dependencias necessárias
 para a aplicação ou serviço que será executado na imagem Docker resultante.
 
+### Verificando se a imagem foi criada
+
+<img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/11_Imagem_Criada.png">
+
 
 
 
