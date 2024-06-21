@@ -49,6 +49,11 @@ Basicamente o conteiner carrega a imagem e executa a aplicação
 
 <img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/09_Ambiente_Docker.png">
 
+### Após salvar o dockerfile ir para o Terminal (cmd), e entrar no diretório app
+
+<img src="https://github.com/JosiTubaroski/Criando-Imagens-Docker/blob/main/Img/10_build.png">
+
+
 
 
 
