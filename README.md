@@ -130,6 +130,24 @@ O Docker daemon é um componente crucial do ecossistema Docker. Ele é responsá
 
 Em resumo, o Docker daemon é o "coração" do Docker, responsável por todas as operações relacionadas a gestão de conteineres e imagens Docker em um sistema operacional. Ele facilita a criação, execução e gerenciamento de aplicações distribuidas e microserviços em ambientes de desenvolvimento e produção.
 
+## O que é Docker CLI?
+
+O Docker CLI (Command Line Interface) é uma interface de linha de comando que permite aos usuários interagirem com o Docker de maneira eficiente e direta através do terminal ou prompt de comando. Aqui estão os principais pontos sobre o Docker CLI:
+
+<p>1.Funcionalidade: O Docker CLI oferece uma série de comandos que permitem aos usuários realizar operações como gerenciar contêineres, imagens, redes e volumes Docker.</p>
+
+<p>2.Comandos Básicos:</p>
+
+- 'docker run': Inicia um novo container a partir de uma imagem.
+- 'docker build': Constrói uma nova imagem Docker a partir de um Dockerfile.
+- 'docker pull': Baixa uma imagem Docker do Docker Hub ou de outro registro de imagens.
+- 'docker ps': Lista os contêiners em execução.
+- 'docker images': Lista as imagens Docker disponíveis localmente.
+- 'docker network': Gerencia redes Docker.
+- 'docker volume': Gerencia volumes Docker para armazenamento persistente.
+
+
+
 
 
 
