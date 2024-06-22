@@ -146,6 +146,8 @@ O Docker CLI (Command Line Interface) é uma interface de linha de comando que p
 - 'docker network': Gerencia redes Docker.
 - 'docker volume': Gerencia volumes Docker para armazenamento persistente.
 
+  <p style="color:red;">Este texto será vermelho.</p>
+
 
 
 
