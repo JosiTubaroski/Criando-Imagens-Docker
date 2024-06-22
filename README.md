@@ -173,6 +173,17 @@ Node.js é um ambiente de execução JavaScript assíncrono e baseado em eventos
 - Ecossistema NPM: Node.js é acompanhado pelo npm (Node Package Manager), um dos maiores repositórios de bibliotecas de código aberto do mundo, facilitando o desenvolvimento
   com uma vasta gama de pacotes prontos para uso.
 
+  ### O que é o docker compose?
+
+  O Docker Compose é uma ferramenta que permite definir e executar aplicações Docker multi-container de forma simplificada. Ela utiliza arquivos YAML para configurar serviços da aplicação, permitindo que você defina as dependências entre esses serviços e suas configurações.
+
+ #### Funcionalidades Principais do Docker Compose:
+
+ ##### 1. Definição de Serviços:
+
+ - Com o Docker Compose, você pode definir vários serviços (conteiners) que compõe sua aplicação em um único arquivo YAML. Cada serviço pode ser configurado com sua própria imagem Docker, variáveis de ambiente, volumes, redes e outras opções.
+
+
    
 
 
